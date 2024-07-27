@@ -16,6 +16,8 @@ body{
 
 button{
     border-radius: 5px;
+    color: black;
+    border-color: black;
 }
 
 .footer{
